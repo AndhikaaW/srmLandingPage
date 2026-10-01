@@ -491,7 +491,7 @@ export function Footer({
           <div>
             <div className="flex items-center gap-3">
               <img
-                src="/srm_landing_page/srm.png"
+                src="/srm.png"
                 alt={`Logo ${shopName}`}
                 width={56}
                 height={56}

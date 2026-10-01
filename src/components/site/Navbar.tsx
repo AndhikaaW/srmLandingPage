@@ -34,7 +34,7 @@ export function Navbar({ shopName, waUrl }: { shopName: string; waUrl: string })
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-5 lg:px-10">
         <a href="#home" className="flex items-center gap-3" aria-label={shopName}>
           <img
-            src="/srm_landing_page/srm.png"
+            src="/srm.png"
             alt={`Logo ${shopName}`}
             width={48}
             height={48}
